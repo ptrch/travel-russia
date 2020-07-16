@@ -1,0 +1,14 @@
+.content__photo {
+    margin-top: 102px;
+}
+
+@media (max-width: 768px) {
+    .content__photo {
+        margin-top: 97px;
+    }
+}
+@media (max-width: 375px) {
+    .content__photo {
+        margin-top: 64px;
+    }
+}

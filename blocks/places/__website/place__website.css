@@ -1,0 +1,23 @@
+.place__website {
+    max-width: 484px;
+    width: 100%;
+    font-family: 'Inter', Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    align-self: end;
+    grid-area: website;
+}
+
+@media screen and (max-width: 768px) {
+    .place__website {
+        font-size: 24px;
+        align-self: start;
+    }
+    
+    
+}
+@media screen and (max-width: 375px) {
+    .place__website {
+        display: none;
+    }
+}

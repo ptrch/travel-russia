@@ -1,0 +1,18 @@
+.page__footer {
+    margin-top: 160px;
+    margin-bottom: 48px;
+}
+
+
+@media screen and (max-width: 768px) {
+    .page__footer {
+        margin-top: 102px;
+        margin-bottom: 24px;
+    }
+}
+
+@media screen and (max-width: 620px) {
+    .page__footer {
+        margin-top: 64px;
+    }
+}

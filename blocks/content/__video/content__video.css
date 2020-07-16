@@ -1,0 +1,9 @@
+.content__video {
+    margin-top: 30px;
+}
+
+@media screen and (max-width: 375px) {
+    .content__video {
+        margin-top: 16px;
+    }
+}

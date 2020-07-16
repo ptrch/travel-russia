@@ -1,0 +1,28 @@
+.photo__item {
+    width: 100%;
+}
+/* @media screen and (max-width: 1280px) {
+    .photo__item {
+        width:calc((100vw - 144px)/4) ;
+        
+    }
+}
+@media screen and (max-width: 1024px) {
+    .photo__item {
+        width:calc((100vw - 124px)/3) ;
+        
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .photo__item {
+        width:calc((100vw - 64px)/2) ;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .photo__item {
+        width:calc(100vw - 26px) ;
+    }
+} */
+

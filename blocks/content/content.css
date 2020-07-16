@@ -1,0 +1,28 @@
+@import url('./__lead/content__lead.css');
+@import url('./__intro/content__intro.css');
+@import url('./__photo/content__photo.css');
+@import url('./__places/content__places.css');
+@import url('./__video/content__video.css');
+@import url('./__comments/content__comments.css');
+@import url('./__cover/content__cover.css');
+
+
+@media screen and (max-width: 1024px) {
+    .content {
+      max-width: 1024px;
+    }
+  }@media screen and (max-width: 768px) {
+    .content {
+      max-width: 768px;
+    }
+  }@media screen and (max-width: 375px) {
+    .content {
+      max-width: 375px;
+    }
+  }
+  @media screen and (max-width : 320px) {
+    .content {
+        max-width: 320px;
+        
+    }
+}

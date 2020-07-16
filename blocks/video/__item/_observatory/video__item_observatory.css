@@ -1,0 +1,18 @@
+.video__item_observatory {
+    background: rgba(0, 0, 0, .2);
+    background-image: url(../../../../images/observatory.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+    border-radius: 5px;
+    
+}
+
+.video__item_observatory:hover{
+    background: rgba(0, 0, 0, .5);
+    background-image: url(../../../../images/observatory.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+    transition: linear .3s;
+}

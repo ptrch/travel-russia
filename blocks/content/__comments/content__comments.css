@@ -1,0 +1,9 @@
+.content__comments {
+    margin-top: 102px;
+}
+
+@media (max-width: 375px) {
+    .content__comments {
+        margin-top: 64px;
+    }
+}

@@ -1,0 +1,43 @@
+.lead__title {
+    max-width: 782px;
+    margin: 0 auto;
+    margin-bottom: 36px;
+    text-align: center;
+    font-family: 'Inter', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 6rem;
+    line-height: 0.96;
+}
+
+@media screen and (max-width: 1024px) {
+    .lead__title {
+        max-width: 91%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .lead__title {
+        max-width: 90%;
+    }
+}
+@media screen and (max-width: 730px) {
+    .lead__title {
+        max-width: 90%;
+        font-size: 3rem;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .lead__title {
+        max-width: 90%;
+        font-size: 2.5rem;
+        line-height: 1.1;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .lead__title {
+        max-width: 90%;
+    }
+}

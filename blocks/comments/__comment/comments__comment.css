@@ -1,0 +1,11 @@
+.comments__comment {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 768px) {
+    .comments__comment {
+        align-items: center;
+    }
+}
